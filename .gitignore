@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs/DesignPattern/v16
+/SimpleFactory/obj
+/SimpleFactory/bin/Debug/netcoreapp3.1
+/.vs/DesignPattern/DesignTimeBuild
