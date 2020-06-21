@@ -12,3 +12,6 @@
 /DecoretePattern/bin/Debug/netcoreapp3.1
 /ProxyPattern/bin/Debug/netcoreapp3.1
 /ProxyPattern/obj
+/AdapterPattern/obj
+/AdapterPattern/bin/Debug/netcoreapp3.1
+/AdapterPattern/.vscode
