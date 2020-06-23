@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProxyPattern", "ProxyPatter
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdapterPattern", "AdapterPattern\AdapterPattern.csproj", "{5A708F3F-3729-4C5F-8968-FA4A82753C68}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResponsibilityPattern", "ChainOfResponsibilityPattern\ChainOfResponsibilityPattern.csproj", "{8D63D05D-1D0E-4B77-8639-B4E7E097BF72}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{5A708F3F-3729-4C5F-8968-FA4A82753C68}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5A708F3F-3729-4C5F-8968-FA4A82753C68}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5A708F3F-3729-4C5F-8968-FA4A82753C68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D63D05D-1D0E-4B77-8639-B4E7E097BF72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D63D05D-1D0E-4B77-8639-B4E7E097BF72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D63D05D-1D0E-4B77-8639-B4E7E097BF72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D63D05D-1D0E-4B77-8639-B4E7E097BF72}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
